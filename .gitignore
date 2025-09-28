@@ -1,0 +1,12 @@
+# ByteRun Python Virtual Machine
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.DS_Store
+
+# Virtual Environment
+venv/
+env/
+ENV/
